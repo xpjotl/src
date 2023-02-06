@@ -1,4 +1,4 @@
 src
 ===
 
-all schumi sources
+all schumi sourcesavailable to the public
